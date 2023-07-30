@@ -1,0 +1,1 @@
+clone in prototype can be shallow or deep depending on the implementation 
