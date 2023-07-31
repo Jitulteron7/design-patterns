@@ -41,6 +41,11 @@ class BMWX5 extends Car {
 const hondaCivic = new HondaCivic();
 const toyotaCamry = new ToyotaCamry();
 const bmwX5 = new BMWX5();
+
+
+
+
+
 // after prottype
 // Base Car class with a complex initialization process
 class Car {

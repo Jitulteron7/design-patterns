@@ -38,6 +38,9 @@ function createCopy(obj) {
 const copiedPerson = createCopy(originalPerson);
 const copiedProduct = createCopy(originalProduct);
 
+
+
+
 // after implementation of prototype
 // Cloning interface (Prototype)
 class Clonable {
